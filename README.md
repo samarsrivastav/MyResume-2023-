@@ -1,3 +1,3 @@
 # MyResume
  
-https://samarsrivastav.github.io/MyResume-2023-/
+[Link](https://samarsrivastav.github.io/Samar_Porfolio/)https://samarsrivastav.github.io/Samar_Porfolio/
