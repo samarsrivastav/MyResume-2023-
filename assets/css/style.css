@@ -500,6 +500,10 @@ section {
 
 .resume .resume-item ul li {
   padding-bottom: 10px;
+  font-style: italic;
+}
+.resume .resume-item p{
+  font-style: italic;
 }
 
 .resume .resume-item:last-child {
